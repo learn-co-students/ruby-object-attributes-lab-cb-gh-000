@@ -4,14 +4,14 @@ class Person
   end
 
   def name
-    puts "#{@name}"
+    @name
   end
 
-  def job=(jon)
+  def job=(job)
     @job = job
   end
 
   def job
-    puts "#{@job}"
+    @job
   end
 end
