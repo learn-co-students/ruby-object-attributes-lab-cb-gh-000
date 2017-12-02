@@ -13,3 +13,10 @@ class Person
     @job
   end
 end
+
+# mike = Person.new
+# mike.name=("mikey")
+# puts mike.name
+#
+# mike.job=("designer")
+# puts mike.job
