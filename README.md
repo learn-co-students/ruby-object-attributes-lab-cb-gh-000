@@ -16,7 +16,7 @@ Get started with this lab by opening it with `learn open` and running `learn`.
 
 ## `Dog` and `lib/dog.rb`
 
-### Give a Dog a Name
+### Gigve a Dog a Name
 
 You'll be teaching `Dog` about their names through two methods, `#name`, and `#name=` that read and write to a corresponding instance variable `@name`.
 
