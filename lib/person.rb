@@ -1,10 +1,10 @@
 class Person
   def name=(person_name)
-    @person_name = person_name
+    @name = person_name
   end
 
   def name
-    puts @person_name
+    @name
   end
 
   def job=(job)
@@ -12,6 +12,6 @@ class Person
   end
 
   def job
-    puts @job
+    @job
   end
 end
